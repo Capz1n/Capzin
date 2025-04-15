@@ -1,0 +1,76 @@
+body {
+    font-family: 'Anton', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #111;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #c8102e;
+    color: white;
+    padding: 20px 10px;
+  }
+  
+  .tagline {
+    font-style: italic;
+    font-size: 1.2em;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    margin: 15px;
+    padding: 10px 20px;
+    background-color: #efefef;
+    border: 2px solid #c8102e;
+    color: #c8102e;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #c8102e;
+    color: white;
+  }
+  
+  footer {
+    margin-top: 40px;
+    padding: 15px;
+    background-color: #222;
+    color: #fff;
+  }
+  
+  ul {
+    list-style-type: square;
+    padding-left: 20px;
+    text-align: left;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .food-image {
+    width: 250px;
+    margin: 20px auto;
+    border-radius: 10px;
+  }
+  
+  .paragraph-style.one {
+    color: #c8102e;
+  }
+  
+  .paragraph-style.two {
+    font-style: italic;
+    color: #333;
+  }
+  
+  .paragraph-style.three {
+    text-decoration: underline;
+  }
+  
+  .centered {
+    padding-top: 100px;
+  }
+  
